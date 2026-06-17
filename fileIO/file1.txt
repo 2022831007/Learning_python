@@ -1,0 +1,12 @@
+python can be used to perform operations on a file(read &write data)
+types of files
+1.text Files:.txt,.docx,.log etc
+2.Binary Files:.mp4,.mov,.png,.jpeg etc
+'r' : open for reading
+'w' : open for writing,truncating the file first
+'x' : create a new file and open it for writing
+'a' : open for writing,appending to the end of the file it it exists
+'b' : binary mode
+'t' : text mode (default)
+'+' : open a disk file for updating(reading and writing)
+ 
